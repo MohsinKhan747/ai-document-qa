@@ -25,7 +25,7 @@ Capstone project for grounded document Q&A: upload PDFs or text files, index the
 **Prerequisites:** Node.js LTS, Git, and [Cursor](https://cursor.com) (or another editor).
 
 ```bash
-git clone https://github.com/<your-username>/ai-document-qa.git
+git clone https://github.com/MohsinKhan747/ai-document-qa.git
 cd ai-document-qa
 npm install
 npm run dev
